@@ -8,7 +8,7 @@ output:
   bookdown::tufte_html_book:
     toc: yes
     css: toc.css
-logo: data/HPR_logo.jpg
+logo: "data/HPR_logo.jpg"
 documentclass: book
 bibliography:
 - book.bib
@@ -35,9 +35,9 @@ knitr::write_bib(c(
 ), 'packages.bib')
 ```
 
-<!-- # ![Horticultural Production and Research](data/HPR_Logo.jpg){width=90%} {-#header} -->
+# ![Horticultural Production and Research](data/HPR_Logo.jpg){width=90%} {-#header}
 
-# Introduction {-#intro}
+## Introduction {-#intro .unlisted}
 
 **Welcome to Horticultural Production and Research**
 
@@ -63,11 +63,11 @@ The materials assembled on this website support the lecture on **Horticultural P
 
 The lecture times are ***Wednesdays 08:30-10:00 and Thursdays 12:15-13:45*** between 11th October 2023 and 1st February 2024.
 
-## Module content {-#modulecontent}
+## Module content {-#modulecontent .unlisted}
 
 Horticulture is a very broad topic that we can't cover comprehensively in a single module. Besides, being the MSc students that you are, you're entitled to a certain level of depth, which we wouldn't be able to reach if we tried covering everything. So we decided to concentrate on a few topics that we thought you'll find interesting. This is a mixture of impressions about particular production systems and current topics that are at the forefront of horticultural research and/or public debate.
 
-## Inverted classroom {-#inverted}
+## Inverted classroom {-#inverted .unlisted}
 
 We're going to try something new in this class - an inverted classroom format. This basically means that we're not just going to be talking at you when we're all in class. Instead, we'll try to facilitate your learning by engaging in a participatory process that will require you to actually do stuff, rather than just listening to what we have to say. The format of this active session will vary across the different topic, so that this doesn't get boring.
 
@@ -75,13 +75,13 @@ During our participatory sessions, we want you to consolidate what you've learne
 
 We'll also have sessions where we discuss the content of scientific publications. So each week, you'll be given a reading assignment, which we'll then talk about in class. You will be facilitating these discussions yourselves, so you may want to think of some leading questions to guide the conversations.
 
-## Communication {-#communication}
+## Communication {-#communication .unlisted}
 
 You'll receive most information related to the class via this website.
 
 We also invite you to join the Slack workspace for this module. [Slack](https://slack.com/intl/en-de/) is a platform that facilitates collaboration within teams or organizations that we've found very effective for organizing class contents. The invitation to Slack is on [eCampus](https://ecampus.uni-bonn.de/goto_ecampus_crs_2700570.html) (you'll need your Uni-ID to log in). Please sign up with your university email address. We'll share announcements through Slack, and we also encourage you to organize your group work via this platform. You'll get a brief introduction into Slack in our first session.
 
-## Grading {-#grading}
+## Grading {-#grading .unlisted}
 
 There's no exam in this module, but you'll be required to deliver a few other things:
 
@@ -93,7 +93,7 @@ There's no exam in this module, but you'll be required to deliver a few other th
 
 You're also expected to come to class prepared and participate actively in the interactive sessions and paper discussions.
 
-## Lecture topics {-#lecturetopics}
+## Lecture topics {-#lecturetopics .unlisted}
 
 In each of the 15 weeks of the semester, we'll cover one topic. After week 1, we'll have our interactive session every Wednesday (08:30-10:00). On Thursdays, we'll split into smaller groups to discuss the papers you'll have read. We're estimating that this will take us about an hour. The remainder of the time can be (and should be) spent working on and talking about the term papers. We may have some more inputs on academic writing, but this is mainly your chance to get our advice - make sure to use this opportunity!
 
@@ -119,7 +119,7 @@ The contents and instructions will be added to this website in the course of the
 
 In addition to the lectures, we're preparing some instruction materials on [Scientific writing], which we'll make available here too.
 
-## Introductory materials from week 1 {-#intromat}
+## Introductory materials from week 1 {-#intromat .unlisted}
 
 [Here's the introduction to the class.](https://ecampus.uni-bonn.de/goto_ecampus_file_3152102_download.html)
 
