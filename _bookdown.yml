@@ -5,6 +5,7 @@ language:
     chapter_name: "Chapter "
 
 rmd_files:
+- index.Rmd
 - 00_intro.Rmd
 - 01_Intro_horticulture.Rmd
 - 02_Temperate_fruits.Rmd
@@ -22,4 +23,3 @@ rmd_files:
 - 50_Term_papers.Rmd
 - 97_Template.Rmd
 - 99-impressum.Rmd
-# - index.Rmd
