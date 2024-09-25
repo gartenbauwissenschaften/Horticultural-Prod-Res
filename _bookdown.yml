@@ -6,7 +6,7 @@ language:
 
 rmd_files:
 - index.Rmd
-- 00_intro.Rmd
+# - 00_intro.Rmd
 - 01_Intro_horticulture.Rmd
 - 02_Temperate_fruits.Rmd
 - 03_SDGs.Rmd
