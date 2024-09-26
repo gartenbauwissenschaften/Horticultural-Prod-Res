@@ -9,6 +9,10 @@
 .Rapp.history
 .Rbuildignore
 
+# Exclude renv package library and staging area
+renv/library/
+renv/staging/
+
 # Bookdown output files
 _book/
 docs/
